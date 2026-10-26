@@ -1,0 +1,13 @@
+Preparé casos de prueba para el botón "Reservar" de la página web "Urban Routes" consulta la sección "Botón 'Reservar'" en los requisitos. 
+Utilicé pruebas positivas y negativas.
+
+Dato:
+
+La distancia y la duración del viaje se muestran en el botón "Reservar". Por ejemplo: "El recorrido será de [3] kilómetros y se hará en [4] minutos". 
+No es necesario comprobar si estos datos se calcularon correctamente. tampoco probar el temporizador que muestra el tiempo de espera gratuito.
+
+Coloqué los casos de prueba en la tercera pestaña de la hoja de cálculo: "3. Casos de prueba para el botón "Reservar"".}
+
+Documento completo:
+
+<https://docs.google.com/spreadsheets/d/15YHGRWNdZJB9S-cT4z9jIKU_fpvLmqwI/edit?gid=765774957#gid=765774957>
