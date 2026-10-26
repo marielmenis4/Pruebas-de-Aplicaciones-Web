@@ -1,0 +1,43 @@
+Probé la aplicación web de "Urban Routes" y escribí informes de errores probando la funcionalidad para compartir un automóvil utilizando las listas de 
+comprobación y los casos de prueba que diseñé previamente. Utilicé dos configuraciones de entorno para realizar las pruebas de diseño:
+
+Google Chrome, resolución de pantalla 800x600
+Firefox, resolución de pantalla 1920x1080
+
+La lógica de la aplicación solo era necesario comprobarse en un entorno.
+
+DATO:
+Los requisitos dicen que después de rellenar el campo "Agregar licencia de conducir", se activa un temporizador durante 30 segundos.
+La implementación actual de la aplicación no tiene esta función, por lo que no tuve que esperar cada vez que realicé una prueba.
+
+Cuando ejecuté las pruebas, marqué los resultados como APROBADO o NO APROBADO. Si la prueba tiene el estatus de NO APROBADO, escribí un informe de 
+errores en Jira introduciendo el ID en la hoja de cálculo correspondiente: hay una columna llamada "Enlace al informe de errores" en cada pestaña.
+
+Enlaces de informes de errores en JIRA:
+
+https://marielmenis.atlassian.net/browse/TRIP-5
+https://marielmenis.atlassian.net/browse/TRIP-6
+https://marielmenis.atlassian.net/browse/TRIP-7
+https://marielmenis.atlassian.net/browse/TRIP-8
+https://marielmenis.atlassian.net/browse/TRIP-9
+https://marielmenis.atlassian.net/browse/TRIP-10
+https://marielmenis.atlassian.net/browse/TRIP-11
+https://marielmenis.atlassian.net/browse/TRIP-12
+https://marielmenis.atlassian.net/browse/TRIP-13
+https://marielmenis.atlassian.net/browse/TRIP-14
+https://marielmenis.atlassian.net/browse/TRIP-15
+https://marielmenis.atlassian.net/browse/TRIP-16
+https://marielmenis.atlassian.net/browse/TRIP-17
+https://marielmenis.atlassian.net/browse/TRIP-18
+https://marielmenis.atlassian.net/browse/TRIP-19
+https://marielmenis.atlassian.net/browse/TRIP-20
+https://marielmenis.atlassian.net/browse/TRIP-21
+https://marielmenis.atlassian.net/browse/TRIP-1
+https://marielmenis.atlassian.net/browse/TRIP-2
+https://marielmenis.atlassian.net/browse/TRIP-3
+https://marielmenis.atlassian.net/browse/TRIP-4
+https://marielmenis.atlassian.net/browse/TRIP-22
+https://marielmenis.atlassian.net/browse/TRIP-23
+https://marielmenis.atlassian.net/browse/TRIP-24
+https://marielmenis.atlassian.net/browse/TRIP-25
+
